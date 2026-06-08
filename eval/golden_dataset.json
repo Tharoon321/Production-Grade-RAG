@@ -1,0 +1,42 @@
+
+[
+  {
+    "question": "What database technology does Nimbus Analytics use for semantic search?",
+    "expected_answer": "Nimbus Analytics uses Qdrant for semantic vector search.",
+    "source_doc_ids": [
+      "doc_business_001"
+    ]
+  },
+
+  {
+    "question": "Why was the Aurora Telescope Array built in Chile?",
+    "expected_answer": "The Aurora Telescope Array was built in Chile because of the region's low atmospheric humidity and minimal light pollution.",
+    "source_doc_ids": [
+      "doc_science_001"
+    ]
+  },
+
+  {
+    "question": "What caused the collapse of the Helios trading platform in 2018?",
+    "expected_answer": "The Helios trading platform collapsed in 2018 due to high-frequency trading system failures and poor risk controls.",
+    "source_doc_ids": [
+      "doc_business_002"
+    ]
+  },
+
+  {
+    "question": "What innovation made the Mariner-X spacecraft notable?",
+    "expected_answer": "The Mariner-X spacecraft was notable for using autonomous navigation during deep-space travel.",
+    "source_doc_ids": [
+      "doc_science_002"
+    ]
+  },
+
+  {
+    "question": "What educational reform was introduced during the Lydian Republic era?",
+    "expected_answer": "The Lydian Republic introduced universal public technical education.",
+    "source_doc_ids": [
+      "doc_history_001"
+    ]
+  }
+]

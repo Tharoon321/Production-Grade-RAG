@@ -1,0 +1,57 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+.env.*
+
+# =========================
+# Node / React / Vite
+# =========================
+node_modules/
+
+dist/
+build/
+
+vite.svg
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Qdrant / Database
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Uploads / Generated files
+# =========================
+uploads/
+temp/
